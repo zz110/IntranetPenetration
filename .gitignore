@@ -3,3 +3,7 @@
 ################################################################################
 
 /NetworkClient/obj
+/.vs
+/NetworkClient/bin/Debug
+/RelayService/bin/Debug
+/RelayService/obj
